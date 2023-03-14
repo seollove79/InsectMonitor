@@ -1,0 +1,10 @@
+D:\devwork\InsectMonitor\InsectMonitor\bin\Debug\InsectMonitor.exe.config
+D:\devwork\InsectMonitor\InsectMonitor\bin\Debug\InsectMonitor.exe
+D:\devwork\InsectMonitor\InsectMonitor\bin\Debug\InsectMonitor.pdb
+D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.csproj.AssemblyReference.cache
+D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.Form1.resources
+D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.Properties.Resources.resources
+D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.csproj.GenerateResource.cache
+D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.csproj.CoreCompileInputs.cache
+D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.exe
+D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.pdb
