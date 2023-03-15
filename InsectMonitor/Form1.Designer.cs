@@ -104,7 +104,7 @@ namespace InsectMonitor
             this.btnConnection.TabIndex = 0;
             this.btnConnection.Text = "Open";
             this.btnConnection.UseVisualStyleBackColor = true;
-            this.btnConnection.Click += new System.EventHandler(this.btn_connection_Click_1);
+            this.btnConnection.Click += new System.EventHandler(this.btn_connection_Click);
             // 
             // btnAcquisition
             // 

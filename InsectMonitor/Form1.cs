@@ -29,6 +29,8 @@ namespace InsectMonitor
             InitializeComponent();
 
             _camera = new SentechEx();
+            _camera.SetColorConversion(true);
+
             _mutexImage = new Mutex();
         }
 
@@ -152,7 +154,7 @@ namespace InsectMonitor
             }
         }
 
-        private void btn_connection_Click_1(object sender, EventArgs e)
+        private void btn_connection_Click(object sender, EventArgs e)
         {
             try
             {
@@ -169,10 +171,7 @@ namespace InsectMonitor
                     width = _camera.Width;
                     height = _camera.Height;
 
-                    if (_isBayerConvert == false)
-                        CreateBitmap(index, (int)width, (int)height, PixelFormat.Format8bppIndexed);
-                    else
-                        CreateBitmap(index, (int)width, (int)height, PixelFormat.Format24bppRgb);
+                    CreateBitmap(index, (int)width, (int)height, PixelFormat.Format24bppRgb);
 
                     string model = "", serial = "";
                     model = _camera.DeviceModelName;
