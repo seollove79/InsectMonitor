@@ -8,3 +8,6 @@ D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.csproj.GenerateRe
 D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.csproj.CoreCompileInputs.cache
 D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.exe
 D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.pdb
+D:\devwork\InsectMonitor\InsectMonitor\bin\Debug\GenApiDotNet40_v3_2.dll
+D:\devwork\InsectMonitor\InsectMonitor\bin\Debug\StApiDotNet40_v1_1.dll
+D:\devwork\InsectMonitor\InsectMonitor\obj\Debug\InsectMonitor.csproj.CopyComplete
